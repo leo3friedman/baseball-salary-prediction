@@ -1,0 +1,162 @@
+Player,Pos'n,Age,Qual    Offer,Old    Club,New Club,Years,Guarantee,Term,Option,Opt Out,AAV,Player Agent,Club Owner,Baseball Ops      head / club GM,Details
+"Cespedes, Yoenis",rf,31,rejected,NYN,NYN,4,"$110,000,000 ",2017-20,,,"$27,500,000",Roc Nation,Fred Wilpon,Sandy Alderson,
+"Chapman, Aroldis",lhp-c,29,,CHN,NYA,5,"$86,000,000 ",2017-21,,1,"$17,200,000",Magnus Sports,Hal Steinbrenner,Brian Cashman,Player may opt out after 2019 season
+"Fowler, Dexter",cf-rf,31,rejected,CHN,SLN,5,"$82,500,000 ",2017-21,,,"$16,500,000",Excel,Bill DeWitt Jr.,John Mozeliak,
+"Jansen, Kenley",rhp-c,29,rejected,LAN,LAN,5,"$80,000,000 ",2017-21,,,"$16,000,000",Wasserman,Mark Walter,Friedman / Zaidi,
+"Desmond, Ian",of-1b,31,rejected,TEX,COL,5,"$70,000,000 ",2017-21,,,"$14,000,000",Sports One,Monfort brothers,Jeff Bridich,
+"Turner, Justin",3b,32,rejected,LAN,LAN,4,"$64,000,000 ",2017-20,,,"$16,000,000",Legacy Agency,Mark Walter,Friedman / Zaidi,
+"Melancon, Mark",rhp-c,32,,WAS,SFN,4,"$62,000,000 ",2017-20,,1,"$15,500,000",ISE,Charles Johnson,B Sabean/B Evans,
+"Encarnacion, Edwin",1b-dh,34,rejected,TOR,CLE,3,"$60,000,000 ",2017-19,club,,"$20,000,000",Rep 1,Paul Dolan,Antonetti/Chernoff,
+"Reddick, Josh",rf,30,,LAN,HOU,4,"$52,000,000 ",2017-20,,,"$13,000,000",ACES,Jim Crane,Jeff Luhnow,
+"Hill, Rich",lhp-s,37,,LAN,LAN,3,"$48,000,000 ",2017-19,,,"$16,000,000",ACES,Mark Walter,Friedman / Zaidi,
+"Trumbo, Mark",of,31,rejected,BAL,BAL,3,"$37,500,000 ",2017-19,,,"$12,500,000",Wasserman,Peter Angelos,Dan Duquette,
+"Morales, Kendrys",dh,34,,KCA,TOR,3,"$33,000,000 ",2017-19,,,"$11,000,000",Wasserman,Edward Rogers,MShapiro/RAtkins,
+"Cecil, Brett",lhp,30,,TOR,SLN,4,"$30,500,000 ",2017-20,,,"$7,625,000",ACES,Bill DeWitt Jr.,John Mozeliak,
+"Nova, Ivan",rhp-s,30,,PIT,PIT,3,"$26,000,000 ",2017-19,,,"$8,666,666",Legacy Agency,Bob Nutting,Neal Huntington,
+"Castro, Jason",c,30,,HOU,MIN,3,"$24,500,000 ",2017-19,,,"$8,166,667",ISE,Jim Pohlad,DFalvey /TLevine,
+"Volquez, Edinson",rhp-s,33,,KCA,MIA,2,"$22,000,000 ",2017-18,,,"$11,000,000",Wasserman,Jeffrey Loria,Michael Hill,
+"Wieters, Matt",c,31,,BAL,WAS,2,"$21,000,000 ",2017-18,player,,"$10,500,000",Boras Corp.,Ted Lerner,Mike Rizzo,
+"Dunn, Mike",lhp,32,,MIA,COL,3,"$19,000,000 ",2017-19,club,,"$6,333,333",O'Connell Sports,Monfort brothers,Jeff Bridich,
+"Bautista, Jose",rf,36,rejected,TOR,TOR,1,"$18,500,000 ",2017,mutual,,"$18,500,000",Epitome Sports,Edward Rogers,MShapiro/RAtkins,
+"Walker, Neil",2b,31,accepted,NYN,NYN,1,"$17,200,000 ",2017,,,"$17,200,000",Excel,Fred Wilpon,Sandy Alderson,
+"Hellickson, Jeremy",rhp,30,accepted,PHI,PHI,1,"$17,200,000 ",2017,,,"$17,200,000",Boras Corp.,John Middleton,MacPhail/Klentak,
+"Beltran, Carlos",dh-rf,40,,TEX,HOU,1,"$16,000,000 ",2017,,,"$16,000,000",MVP Sports,Jim Crane,Jeff Luhnow,
+"Hammel, Jason",rhp-s,34,,CHN,KC,2,"$16,000,000 ",2017-18,mutual,,"$8,000,000",ACES,David Glass,Dayton Moore,
+"Valbuena, Luis",3b,31,,HOU,ANA,2,"$15,000,000 ",2017-18,mutual,,"$7,500,000",Elite Sports,Arturo Moreno,Billy Eppler,
+"Morton, Charlie",rhp-s,33,,PHI,HOU,2,"$14,000,000 ",2017-18,,,"$7,000,000",Jet Sports,Jim Crane,Jeff Luhnow,
+"Holliday, Matt",lf,37,,SLN,NYA,1,"$13,000,000 ",2017,,,"$13,000,000",Boras Corp.,Hal Steinbrenner,Brian Cashman,
+"Colon, Bartolo",rhp-s,44,,NYN,ATL,1,"$12,500,000 ",2017,,,"$12,500,000",Wasserman,Liberty Media,John Coppolella,
+"Ramos, Wilson",c,29,,WAS,TBA,2,"$12,500,000 ",2017-18,,,"$6,250,000",Octagon,Stuart Sternberg,Silverman/Neander,
+"Pearce, Steve",1b,34,,BAL,TOR,2,"$12,500,000 ",2017-18,,,"$6,250,000",Excel,Edward Rogers,MShapiro/RAtkins,
+"Moss, Brandon",1b-of,33,,SLN,KCA,2,"$12,000,000 ",2017-18,mutual,,"$6,000,000",ACES,David Glass,Dayton Moore,
+"Wood, Travis",lhp,30,,CHN,KCA,2,"$12,000,000 ",2017-18,mutual,,"$6,000,000",Frontline,David Glass,Dayton Moore,
+"Tazawa, Junichi",rhp,31,,BOS,MIA,2,"$12,000,000 ",2017-18,,,"$6,000,000",CAA,Jeffrey Loria,Michael Hill,
+"Ziegler, Brad",rhp,37,,BOS,MIA,2,"$12,000,000 ",2017-18,,,"$6,000,000",Icon Sports,Jeffrey Loria,Michael Hill,
+"Gomez, Carlos",cf,31,,TEX,TEX,1,"$11,500,000 ",2017,,,"$11,500,000",Boras Corp.,RDavis/BSimpson,Jon Daniels,
+"Rodriguez, Sean",inf,32,,PIT,ATL,2,"$11,500,000 ",2017-18,,,"$5,750,000",MVP Sports,Liberty Media,John Coppolella,
+"Joyce, Matt",rf,32,,PIT,OAK,2,"$11,000,000 ",2017-18,,,"$5,500,000",ACES,Lewis Wolff,B Beane / D Forst,
+"Casilla, Santiago",rhp,36,,SFN,OAK,2,"$11,000,000 ",2017-18,,,"$5,500,000",Legacy Agency,Lewis Wolff,B Beane / D Forst,
+"Hudson, Daniel",rhp,30,,ARI,PIT,2,"$11,000,000 ",2017-18,,,"$5,500,000",Jet Sports,Bob Nutting,Neal Huntington,
+"Rzepczynski, Marc",lhp,31,,WAS,SEA,2,"$11,000,000 ",2017-18,,,"$5,500,000",John Boggs,John Stanton,Jerry Dipoto,
+"Cashner, Andrew",rhp,30,,MIA,TEX,1,"$10,000,000 ",2017,,,"$10,000,000",CAA,RDavis/BSimpson,Jon Daniels,
+"Saunders, Michael",of,30,,TOR,PHI,1,"$9,000,000 ",2017,club,,"$9,000,000",Meister Sports,John Middleton,MacPhail/Klentak,
+"Napoli, Mike",1b,35,,CLE,TEX,1,"$8,500,000 ",2017,club,,"$8,500,000",Paragon,RDavis/BSimpson,Jon Daniels,
+"Dickey, R.A.",rhp-s,42,,TOR,ATL,1,"$8,000,000 ",2017,club,,"$8,000,000",Bo McKinnis,Liberty Media,John Coppolella,
+"Jay, Jon",cf,32,,SDN,CHN,1,"$8,000,000 ",2017,,,"$8,000,000",CAA,Tom Ricketts,T Epstein / JHoyer,
+"Benoit, Joaquin",rhp,39,,TOR,PHI,1,"$7,500,000 ",2017,,,"$7,500,000",ACES,John Middleton,MacPhail/Klentak,
+"Logan, Boone",lhp,32,,COL,CLE,1,"$6,500,000 ",2017,club,,"$6,500,000",CAA,Paul Dolan,Antonetti/Chernoff,
+"Blevins, Jerry",lhp,33,,NYN,NYN,1,"$6,500,000 ",2017,club,,"$6,500,000",Bobby Barad,Fred Wilpon,Sandy Alderson,
+"Holland, Derek",lhp-s,30,,TEX,CHA,1,"$6,000,000 ",2017,,,"$6,000,000",Martini Sports,Jerry Reinsdorf,KWilliams/RHahn,
+"Uehara, Koji",rhp,42,,BOS,CHN,1,"$6,000,000 ",2017,,,"$6,000,000",ISE,Tom Ricketts,T Epstein / JHoyer,
+"Davis, Rajai",cf,36,,CLE,OAK,1,"$6,000,000 ",2017,,,"$6,000,000",Legacy Agency,Lewis Wolff,B Beane / D Forst,
+"Chavez, Jesse",rhp,33,,LAN,ANA,1,"$5,750,000 ",2017,,,"$5,750,000",Sosnick Cobbe,Arturo Moreno,Billy Eppler,
+"Moreland, Mitch",1b-dh,31,,TEX,BOS,1,"$5,500,000 ",2017,,,"$5,500,000",RMG Baseball,John Henry,Dave Dombrowski,
+"Feliz, Neftali",rhp-c,29,,PIT,MIL,1,"$5,350,000 ",2017,,,"$5,350,000",California Sports,Mark Attanasio,David Stearns,
+"Rasmus, Colby",lf-cf,30,,HOU,TBA,1,"$5,000,000 ",2017,,,"$5,000,000",Excel,Stuart Sternberg,Silverman/Neander,
+"Fister, Doug",rhp-s,33,,HOU,TEX,1,"$4,000,000 ",2017,club,,"$4,000,000",PSI Sports,RDavis/BSimpson,Jon Daniels,
+"Blanton, Joe",rhp,36,,LAN,WAS,1,"$4,000,000 ",2017,,,"$4,000,000",CAA,Ted Lerner,Mike Rizzo,
+"Mathis, Jeff",c,34,,MIA,ARI,2,"$4,000,000 ",2017-18,,,"$2,000,000",Jet Sports,Ken Kendrick,Mike Hazen,
+"Butera, Drew",c,33,,KCA,KCA,2,"$3,800,000 ",2017-18,,,"$1,900,000",David Schwartz,David Glass,Dayton Moore,
+"Anderson, Brett",lhp,29,,LAN,CHN,1,"$3,500,000 ",2017,,,"$3,500,000",Legacy Agency,Tom Ricketts,T Epstein / JHoyer,
+"Drew, Stephen",2b,34,,WAS,WAS,1,"$3,500,000 ",2017,,,"$3,500,000",Boras Corp.,Ted Lerner,Mike Rizzo,
+"Storen, Drew",rhp,29,,SEA,CIN,1,"$3,000,000 ",2017,,,"$3,000,000",CAA,Bob Castellini,Dick Williams,
+"Romo, Sergio",rhp,34,,SFN,LAN,1,"$3,000,000 ",2017,,,"$3,000,000",Meister Sports,Mark Walter,Friedman / Zaidi,
+"Salas, Fernando",rhp,32,,NYN,NYN,1,"$3,000,000 ",2017,,,"$3,000,000",Paragon,Fred Wilpon,Sandy Alderson,
+"Blanco, Andres",3b,33,,PHI,PHI,1,"$3,000,000 ",2017,,,"$3,000,000",Legacy Agency,John Middleton,MacPhail/Klentak,
+"Weaver, Jered",rhp-s,34,,ANA,SDN,1,"$3,000,000 ",2017,,,"$3,000,000",Boras Corp.,Ron Fowler,A.J. Preller,
+"Howell, J.P.",lhp,34,,LAN,TOR,1,"$3,000,000 ",2017,,,"$3,000,000",Legacy Agency,Edward Rogers,MShapiro/RAtkins,
+"Smith, Joe",rhp,33,,CHN,TOR,1,"$3,000,000 ",2017,,,"$3,000,000",Meister Sports,Edward Rogers,MShapiro/RAtkins,
+"Gutierrez, Franklin",of,34,,SEA,LAN,1,"$2,600,000 ",2017,,,"$2,600,000",Octagon,Mark Walter,Friedman / Zaidi,
+"Rodney, Fernando",rhp,40,,MIA,ARI,1,"$2,500,000 ",2017,,,"$2,500,000",Octagon,Ken Kendrick,Mike Hazen,
+"Ellis, A.J.",c,36,,PHI,MIA,1,"$2,500,000 ",2017,,,"$2,500,000",ACES,Jeffrey Loria,Michael Hill,
+"Morrison, Logan",1b,29,,TBA,TBA,1,"$2,500,000 ",2017,,,"$2,500,000",ISE,Stuart Sternberg,Silverman/Neander,
+"Feldman, Scott",rhp-s,34,,TOR,CIN,1,"$2,300,000 ",2017,,,"$2,300,000",Pro Prospects,Bob Castellini,Dick Williams,
+"Belisle, Matt",rhp,37,,WAS,MIN,1,"$2,050,000 ",2017,,,"$2,050,000",CAA,Jim Pohlad,DFalvey /TLevine,
+"Duensing, Brian",lhp,34,,BAL,CHN,1,"$2,000,000 ",2017,,,"$2,000,000",CAA,Tom Ricketts,T Epstein / JHoyer,
+"Avila, Alex",c,30,,CHA,DET,1,"$2,000,000 ",2017,,,"$2,000,000",Excel,Chris Ilitch,Al Avila,
+"Utley, Chase",2b,38,,LAN,LAN,1,"$2,000,000 ",2017,,,"$2,000,000",Wasserman,Mark Walter,Friedman / Zaidi,
+"Hundley, Nick",c,33,,COL,SFN,1,"$2,000,000 ",2017,,,"$2,000,000",Athletes First,Charles Johnson,B Sabean/B Evans,
+"Magowan, Dustin",rhp,35,,MIA,MIA,1,"$1,750,000 ",2017,,,"$1,750,000",ACES,Jeffrey Loria,Michael Hill,
+"Chacin, Jhoulys",rhp-s,29,,ANA,SDN,1,"$1,750,000 ",2017,,,"$1,750,000",Legacy Agency,Ron Fowler,A.J. Preller,
+"Richard, Clayton",lhp-s,33,,SDN,SDN,1,"$1,750,000 ",2017,,,"$1,750,000",ISE,Ron Fowler,A.J. Preller,
+"Cahill, Trevor",rhp-s,29,,CHN,SDN,1,"$1,750,000 ",2017,,,"$1,750,000",John Boggs,Ron Fowler,A.J. Preller,
+"Iannetta, Chris",c,34,,SEA,ARI,1,"$1,500,000 ",2017,,,"$1,500,000",Octagon,Ken Kendrick,Mike Hazen,
+"Descalso, Daniel",3b-ss,30,,COL,ARI,1,"$1,500,000 ",2017,club,,"$1,500,000",,Ken Kendrick,Mike Hazen,
+"Suzuki, Kurt",c,33,,MIN,ATL,1,"$1,500,000 ",2017,,,"$1,500,000",,Liberty Media,John Coppolella,
+"Lind, Adam",1b,33,,SEA,WAS,1,"$1,500,000 ",2017,club,,"$1,500,000",ISE,Ted Lerner,Mike Rizzo,
+"Heisey, Chris",of,32,,WAS,WAS,1,"$1,400,000 ",2017,,,"$1,400,000",Sosnick Cobbe,Ted Lerner,Mike Rizzo,
+"Rosales, Adam",3b,34,,SDN,OAK,1,"$1,250,000 ",2017,,,"$1,250,000",Hilliard Sports,Lewis Wolff,B Beane / D Forst,
+"Bailey, Andrew",rhp,33,,ANA,ANA,1,"$1,000,000 ",2017,,,"$1,000,000",Excel,Arturo Moreno,Billy Eppler,
+"Ondrusek, Logan",rhp,32,,BAL,BAL,1,"$650,000 ",2017,,,"$650,000",,Peter Angelos,Dan Duquette,
+"Albers, Matt",rhp,34,,CHA,WAS,0,$1 ,2017,,,,,Ted Lerner,Mike Rizzo,$1.15M in majors
+"Alvarez, Pedro",1b-dh,30,,BAL,BAL,0,$1 ,2017,,,,Boras Corp.,Peter Angelos,Dan Duquette,$2M in majors
+"Aybar, Erick",ss,33,,DET,SDN,0,$1 ,2017,,,,Roc Nation,Ron Fowler,A.J. Preller,$1.75M in majors
+"Beckham, Gordon",2b,30,,SFN,SFN,0,$1 ,2017,,,,,Charles Johnson,B Sabean/B Evans,$1.25M in majors
+"Blanco, Gregor",of,33,,SFN,ARI,0,$1 ,2017,,,,Octagon,Ken Kendrick,Mike Hazen,$1M in majors
+"Bonifacio, Emilio",of,32,,ATL,ATL,0,$1 ,2017,,,,Gene Mato,Liberty Media,John Coppolella,$1.25M in majors
+"Boujos, Peter",cf,30,,PHI,CHA,0,$1 ,2017,,,,,Jerry Reinsdorf,KWilliams/RHahn,$1.35M in majors
+"Bourn, Michael",of,34,,BAL,BAL,0,$1 ,2017,,,,,Peter Angelos,Dan Duquette,$2M in majors
+"Boyer, Blaine",rhp,35,,MIL,ATL,0,$1 ,2017,,,,,Liberty Media,John Coppolella,"$975,000 in majors"
+"Burnett, Sean",lhp,34,,WAS,PHI,0,$1 ,2017,,,,Munsey Sports,John Middleton,MacPhail/Klentak,$1.25M in majors
+"Coghlan, Chris",of,32,,CHN,PHI,0,$1 ,2017,,,,,John Middleton,MacPhail/Klentak,$3M in majors
+"De Aza, Alejandro",cf-lf,33,,NYM,OAK,0,$1 ,2017,,,,Magnus Sports,Lewis Wolff,B Beane / D Forst,$1.75M in majors
+"De La Rosa, Jorge",lhp,36,,COL,ARI,0,$1 ,2017,,,,TWC Sports,Ken Kendrick,Mike Hazen,$2.25M in majors
+"Detwiler, Ross",lhp-s,31,,OAK,OAK,0,$1 ,2017,,$1.000,,CAA,Lewis Wolff,B Beane / D Forst,$1M in majors
+"Floyd, Gavin",rhp-s,34,,TOR,TOR,0,$1 ,2017,,,,,Edward Rogers,MShapiro/RAtkins,$1M in majors
+"Hanigan, Ryan",c,36,,BOS,PHI,0,$1 ,2017,,,,,John Middleton,MacPhail/Klentak,$1.25M in majors
+"Hernandez, David",rhp,32,,PHI,SFN,0,$1 ,2017,,,,,Charles Johnson,B Sabean/B Evans,$1.5M in majors
+"Hill, Aaron",3b,35,,BOS,SFN,0,$1 ,2017,,,,Legacy Agency,Charles Johnson,B Sabean/B Evans,$2M in majors
+"Howard, Ryan",1b,37,,PHI,ATL,0,$1 ,2017,,,,Excel,Liberty Media,John Coppolella,
+"Hunter, Tommy",rhp,30,,BAL,TBA,0,$1 ,2017,,,,Moye Sports,Stuart Sternberg,Silverman/Neander,$1.4M in majors
+"Jackson, Austin",cf,30,,CHA,CLE,0,$1 ,2017,,$1.000,,Octagon,Paul Dolan,Antonetti/Chernoff,$1.5M in majors
+"Jackson, Edwin",rhp-s,33,,SDN,BAL,0,$1 ,2017,,,,ESQ Agency,Peter Angelos,Dan Duquette,
+"Jepsen, Kevin",rhp,32,,TBA,ARI,0,$1 ,2017,,,,,Ken Kendrick,Mike Hazen,$2.25M in majors
+"Johnson, Chris",1b-3b,32,,MIA,BAL,0,$1 ,2017,,,,Excel,Peter Angelos,Dan Duquette,"$535,000 in majors"
+"Kawasaki, Munenori",2b-3b,36,,CHN,CHN,0,$1 ,2017,,,,,Tom Ricketts,T Epstein / JHoyer,"$900,000 in majors"
+"Latos, Mat",rhp-s,29,,WAS,TOR,0,$1 ,2017,,,,Bledsoe Agency,Edward Rogers,MShapiro/RAtkins,$1.5M in majors
+"Loney, James",1b,33,,NYN,TEX,0,$1 ,2017,,,,Legacy Agency,RDavis/BSimpson,Jon Daniels,$1M in majors
+"Medlen, Kris",rhp,31,,KCA,ATL,0,$1 ,2017,,,,,Liberty Media,John Coppolella,$1M in majors
+"Morrow, Brandon",rhp,32,,SDN,LAN,0,$1 ,2017,,,,Wasserman,Mark Walter,Friedman / Zaidi,$1.25M in majors
+"Moylan, Peter",rhp,38,,KC,KC,0,$1 ,2017,,1,,Wasserman,David Glass,Dayton Moore,$1M in majors
+"Nathan, Joe",rhp,42,,SFN,WAS,0,$1 ,2017,,,,,Ted Lerner,Mike Rizzo,$1.25M in majors
+"Niese, Jon",lhp,30,,PIT,NYA,0,$1 ,2017,,,,O'Connell Sports,Hal Steinbrenner,Brian Cashman,$1.25M in majors
+"O'Flaherty, Eric",lhp,32,,ATL,ATL,0,$1 ,2017,,,,MVP Sports,Liberty Media,John Coppolella,$1.25M in majors
+"Petit, Yusmeiro",rhp,32,,WAS,ANA,0,$1 ,2017,,,,Godoy Sports,Arturo Moreno,Billy Eppler,$2.25M in majors
+"Raburn, Ryan",inf-of,36,,COL,CIN,0,$1 ,2017,,,,Career Sports,Bob Castellini,Dick Williams,"$900,000 in majors"
+"Reynolds, Mark",1b,33,,COL,COL,0,$1 ,2017,,,,Ballengee,Monfort brothers,Jeff Bridich,$1.5M in majors
+"Saltalamacchia, Jarrod",c,32,,DET,TOR,0,$1 ,2017,,,,,Edward Rogers,MShapiro/RAtkins,$2.5M in majors
+"Soto, Geovany",c,34,,ANA,CHA,0,$1 ,2017,,,,Rep 1,Jerry Reinsdorf,KWilliams/RHahn,$2M in majors
+"Stubbs, Drew",of,32,,BAL,MIN,0,$1 ,2017,,,,,Jim Pohlad,DFalvey /TLevine,$1M in majors
+"Vogelsong, Ryan",rhp,39,,PIT,MIN,0,$1 ,2017,,,,Dave Meier,Jim Pohlad,DFalvey /TLevine,$1M in majors
+"Walden, Jordan",rhp,29,,SLN,ATL,0,$1 ,2017,,,,,Liberty Media,John Coppolella,$1M in majors
+"Weeks, Rickie",of,34,,ARI,TBA,0,$1 ,2017,,,,Legacy Agency,Stuart Sternberg,Silverman/Neander,$1.5M in majors
+,,,,,,,,,,,,,,,
+"Lee, Dae-ho",1b,35,,SEA,KBO,4,,2017-20,,,,,,,signed for $13M by Lotte of South Korea
+"McGehee, Casey",3b,34,,DET,NPB,1,,2017,,,,,,,signed for $1.7M by Yomiuri of Japan
+"Ohlendorf, Ross",rhp,34,,CIN,NPB,1,,2017,,,,,,,signed for $1.5M by Yakult of Japan
+"Villaneuva, Carlos",rhp,33,,SDN,KBO,1,,2017,,,,,,,signed for $1.5M by Hanwha of South Korea
+,,,,,,,,,,,,,,,
+Remaining Free Agents,,,,,,,,,,,,,,,
+"Butler, Billy",dh-1b,31,,NYA,retired,,,2017,,,,Greg Genske,,,
+"Byrd, Marlon",of,39,,CLE,dnp,,,2017,,,,ACES,,,
+"Capuano, Chris",lhp-s,38,,MIL,dnp,,,2017,,,,Excel,,,
+"Crisp, Coco",of,37,,CLE,dnp,,,2017,,,,Steve Comte,,,
+"Francoeur, Jeff",rf,33,,MIA,dnp,,,2017,,,,CSE,,,
+"Fuld, Sam",of,35,,OAK,dnp,,,2017,,,,Excel,,,
+"Hochevar, Luke",rhp,33,,KCA,dnp,,,2017,,,,Boras Corp.,,,
+"Johnson, Kelly",2b-3b,35,,NYN,dnp,,,2017,,,,Mike Milchin,,,
+"Lewis, Colby",rhp,37,,TEX,dnp,,,2017,,,,Octagon,,,
+"Lincecum, Tim",rhp-s,33,,ANA,dnp,,,2017,,,,Beverly Hills SC,,,
+"Lopez, Javier",lhp,39,,SFN,retired,,,2017,,,,Meister Sports,,,
+"Morneau, Justin",1b-dh,36,,CHA,dnp,,,2017,,,,ISE,,,
+"Navarro, Dioner",c,33,,TOR,dnp,,,2017,,,,MDR Sports,,,
+"Pagan, Angel",of,35,,SFN,dnp,,,2017,,,,Legacy Agency,,,
+"Peavy, Jake",rhp-s,36,,SFN,dnp,,,2017,,,,CAA,,,
+"Pierzynski, A.J.",c,40,,ATL,dnp,,,2017,,,,Steve Hilliard,,,
+"Ramirez, Alexei",ss,35,,TBA,dnp,,,2017,,,,Jaime Torres,,,
+"Reimold, Nolan",of,33,,BAL,dnp,,,2017,,,,ACES,,,
+"Ross, David",c,40,,CHN,dnp,,,2017,,,,Ryan Gleichowski,,,
+"Simon, Alfredo",rhp-s,36,,CIN,dnp,,,2017,,,,MVP Sports,,,
+"Teixeira, Mark",1b,37,,NYA,retired,,,2017,,,,Casey Close,,,
+"Williams, Jerome",rhp,35,,SLN,dnp,,,2017,,,,Full Circle Spts,,,
+"Wilson, C.J.",lhp-s,36,,ANA,dnp,,,2017,,,,RMG Baseball,,,
